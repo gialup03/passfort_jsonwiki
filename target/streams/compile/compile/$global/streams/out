@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\Gianmarco Luppi\Documents\GitHub\passfort_jsonwiki\json_api.scala:69:29: not found: value key[0m
+[0m[[0m[31merror[0m] [0m[0m        if (!(dict contains key)) { throw titleNotFoundException}[0m
+[0m[[0m[31merror[0m] [0m[0m                            ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
